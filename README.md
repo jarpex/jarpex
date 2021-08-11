@@ -7,7 +7,7 @@ My name is Asya, I’m 22 y.o. 👩🏻‍💻 computer science specialist from 
 🌸 Check out my website:  
 ↳ https://jarpex.ru/
 
-👧🏻 Look at my other projects:  
+🌱 Look at my other projects:  
 ↳ https://projects.jarpex.ru/
 
 👧🏻 And my social networks:  
