@@ -16,8 +16,8 @@ My name is Asya, I’m 22 y.o. 👩🏻‍💻 computer science specialist from 
 <br/>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Ура!](https://blog.jarpex.ru/?p=591)
-- [Ура! Все работает так как я хотела!](https://blog.jarpex.ru/?p=588)
-- [vk-post](https://blog.jarpex.ru/?p=586)
-- [Итак](https://blog.jarpex.ru/?p=582)
+- [CDN](https://blog.jarpex.ru/cdn/)
+- [Ура!](https://blog.jarpex.ru/ura/)
+- [Ура! Все работает так как я хотела!](https://blog.jarpex.ru/ura-vse-rabotaet-tak-kak-ya-xotela/)
+- [vk-post](https://blog.jarpex.ru/vk-post/)
 <!-- BLOG-POST-LIST:END -->
