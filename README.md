@@ -3,16 +3,16 @@
 <br/>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 Donate me ^_^:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ https://donate.jarpex.ru/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ https://donate.jarpex.ru/
 
-🌸 Check out my website:
-↳ https://jarpex.ru/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌸 Check out my website:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ https://jarpex.ru/
 
-🌱 Look at my other projects:
-↳ https://projects.jarpex.ru/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Look at my other projects:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ https://projects.jarpex.ru/
 
-👧🏻 And my social networks:
-↳ https://social.jarpex.ru/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👧🏻 And my social networks:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ https://social.jarpex.ru/
 <br/>
 <br/>
 
