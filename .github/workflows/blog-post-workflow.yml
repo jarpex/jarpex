@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://blog.jarpex.ru/?feed=rss2"
           disable_item_validation: true
           item_exec: |
-                if(!post.title) post = post.description;
+                if(!post.title) post = null;
