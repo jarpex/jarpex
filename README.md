@@ -1,4 +1,4 @@
-### Hello there! ❤️
+<h1 align="center"> Hello there! ❤️</h1>
 My name is Asya, I’m 22 y.o. 👩🏻‍💻 computer science specialist from Russia.
 
 🔥 Donate me ^_^:  
