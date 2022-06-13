@@ -22,9 +22,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [undefined](undefined)
+- [undefined](undefined)
 - [Новая веха](https://blog.jarpex.ru/novaya-vexa/)
 - [Адсенс всё](https://blog.jarpex.ru/adsens-vsyo/)
-- [Переключение языка в Windows](https://blog.jarpex.ru/pereklyuchenie-yazyka-v-windows/)
-- [100K просмотров!](https://blog.jarpex.ru/100k-prosmotrov/)
 <!-- BLOG-POST-LIST:END -->
