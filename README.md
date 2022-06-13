@@ -2,7 +2,7 @@
 <h3 align="center">My name is Asya, I’m 23 y.o. 👩🏻‍💻 computer science specialist from Russia.</h3>
 <br/>
 <br/>
-🔥 Donate me ^_^:
+** 🔥 Donate me ^_^: **
 ↳ https://donate.jarpex.ru/
 
 🌸 Check out my website:
@@ -15,8 +15,11 @@
 ↳ https://social.jarpex.ru/
 <br/>
 <br/>
+
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Новая веха](https://blog.jarpex.ru/novaya-vexa/)
 - [Адсенс всё](https://blog.jarpex.ru/adsens-vsyo/)
 - [Переключение языка в Windows](https://blog.jarpex.ru/pereklyuchenie-yazyka-v-windows/)
