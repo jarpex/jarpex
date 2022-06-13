@@ -14,7 +14,7 @@
 ↳ https://social.jarpex.ru/
 <br/>
 <br/>
-📕 **Latest Blog Posts**
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Новая веха](https://blog.jarpex.ru/novaya-vexa/)
 - [Адсенс всё](https://blog.jarpex.ru/adsens-vsyo/)
