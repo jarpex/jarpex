@@ -15,4 +15,6 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://blog.jarpex.ru/?feed=rss2"
-          template: $description
+          disable_item_validation: true
+          item_exec: |
+                if(!post.title) post = null;
