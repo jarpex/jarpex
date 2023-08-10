@@ -22,8 +22,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [День рождения Suckless.ru](https://blog.jarpex.ru/suckless-first-year-stats/)
 - [Rocket Loader от Cloudflare ломает сайты](https://blog.jarpex.ru/1065-2/)
 - [Ремонт клавиатуры](https://blog.jarpex.ru/keyboard-repair/)
 - [Как я наушники чинила](https://blog.jarpex.ru/how-i-fixed-my-d7-770-pro/)
-- [Распиновка провода Beyerdynamic DT 770 Pro](https://blog.jarpex.ru/dt-770-pro-pinout/)
 <!-- BLOG-POST-LIST:END -->
