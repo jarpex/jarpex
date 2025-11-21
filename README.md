@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there! ❤️</h1>
-<h3 align="center">My name is Anastasia, I’m 25 y.o. 👩🏻‍💻 computer science specialist from Russia.</h3>
+<h3 align="center">My name is Anastasia, I’m 26 y.o. 👩🏻‍💻 computer science specialist from Russia.</h3>
 <br/>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 Donate me ^_^:<br/>
